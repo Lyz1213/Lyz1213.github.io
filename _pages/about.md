@@ -20,7 +20,7 @@ I am a second-year Ph.D. student at the School of Computer Science and Engineeri
   **Yanzhou Li**, Shangqing Liu, Kangjie Chen, Xiaofei Xie, Tianwei Zhang, and Yang Liu  
   The 61st Annual Meeting of the Association for Computational Linguistics (ACL), Jul 2023  
 - [**CommitBART: A Large Pre-trained Model for GitHub Commits**](https://arxiv.org/abs/2208.08100)  
-   Shangqing Liu<sup>*</sup>, **Yanzhou Li**<sup>*</sup>, Xiaofei Xie, Yang Liu (* indicates equal contribution)
+   Shangqing Liu*, **Yanzhou Li***<sup>*</sup>, Xiaofei Xie, Yang Liu (* indicates equal contribution)
 - [**Unveiling Project-Specific Bias in Neural Code Models**](https://arxiv.org/abs/2201.07381)  
   Zhiming Li, **Yanzhou Li**, Tianlin Li, Mengnan Du, Bozhi Wu, Yushi Cao, Xiaofei Xie, Yi Li, Yang Liu
 - [**An Empirical Study on the Effectiveness of Noisy Label Learning for Program Understanding**](https://arxiv.org/abs/2307.08990)  
