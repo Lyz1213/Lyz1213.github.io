@@ -18,9 +18,9 @@ I am a second-year Ph.D. student at the School of Computer Science and Engineeri
 **Publications**
 
 **Professional Services**
-- Conference reviewer of ACL-2023, EMNLP-2022, 2023
+Conference reviewer of ACL-2023, EMNLP-2022, 2023
 
 **Invited Talks**
-- "An Overview of Backdoor Attacks on Large Language Models", NTU LLM Security Workshop, Nanyang Technological University, Sep 2023.
+"An Overview of Backdoor Attacks on Large Language Models", NTU LLM Security Workshop, Nanyang Technological University, Sep 2023.
 
 
