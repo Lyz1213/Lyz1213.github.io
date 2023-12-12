@@ -21,9 +21,9 @@ I am a second-year Ph.D. student at the School of Computer Science and Engineeri
   The 61st Annual Meeting of the Association for Computational Linguistics (ACL), Jul 2023  
 - [**CommitBART: A Large Pre-trained Model for GitHub Commits**](https://arxiv.org/abs/2208.08100)  
    Shangqing Liu*, **Yanzhou Li***, Xiaofei Xie, Yang Liu (* indicates equal contribution)
-- [**Unveiling Project-Specific Bias in Neural Code Models**](https://arxiv.org/abs/2201.07381)
+- [**Unveiling Project-Specific Bias in Neural Code Models**](https://arxiv.org/abs/2201.07381)  
   Zhiming Li, **Yanzhou Li**, Tianlin Li, Mengnan Du, Bozhi Wu, Yushi Cao, Xiaofei Xie, Yi Li, Yang Liu
-- [**An Empirical Study on the Effectiveness of Noisy Label Learning for Program Understanding**](https://arxiv.org/abs/2307.08990)
+- [**An Empirical Study on the Effectiveness of Noisy Label Learning for Program Understanding**](https://arxiv.org/abs/2307.08990)  
   Wenhan Wang, **Yanzhou Li**, Anran Li, Jian Zhang, Wei Ma, Yang Liu
 - **TAG: Joint Triple-Hierarchical Attention and GCN for Review-Based Social Recommender System**  
   Pengpeng Qiao, Zhiwei Zhang, Zhetao Li, Yuanxing Zhang, Kaigui Bian, **Yanzhou Li**, Guoren Wang  
