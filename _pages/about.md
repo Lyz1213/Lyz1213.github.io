@@ -20,7 +20,7 @@ I am a second-year Ph.D. student at the School of Computer Science and Engineeri
   _Yanzhou Li_, Shangqing Liu, Kangjie Chen, Xiaofei Xie, Tianwei Zhang, and Yang Liu  
   The 61st Annual Meeting of the Association for Computational Linguistics (ACL), Jul 2023  
 - [**CommitBART: A Large Pre-trained Model for GitHub Commits**](https://arxiv.org/abs/2208.08100)  
-  ^Shangqing Liu^ , ^_Yanzhou Li_^*, Xiaofei Xie, Yang Liu (* indicates equal contribution)  
+  Shangqing Liu^ , ^_Yanzhou Li_^*, Xiaofei Xie, Yang Liu (* indicates equal contribution)  
 
 # Professional Services
 - Conference reviewer of ACL-2023, EMNLP-2022, 2023
