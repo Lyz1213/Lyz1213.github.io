@@ -25,12 +25,12 @@ I am a second-year Ph.D. student at the School of Computer Science and Engineeri
   Zhiming Li, **Yanzhou Li**, Tianlin Li, Mengnan Du, Bozhi Wu, Yushi Cao, Xiaofei Xie, Yi Li, Yang Liu
 - [**An Empirical Study on the Effectiveness of Noisy Label Learning for Program Understanding**](https://arxiv.org/abs/2307.08990)
   Wenhan Wang, **Yanzhou Li**, Anran Li, Jian Zhang, Wei Ma, Yang Liu
-- **TAG: Joint Triple-Hierarchical Attention and GCN for Review-Based Social Recommender System**
-  Pengpeng Qiao, Zhiwei Zhang, Zhetao Li, Yuanxing Zhang, Kaigui Bian, **Yanzhou Li**, Guoren Wang
-  IEEE Transactions on Knowledge and Data Engineering
-- [**Learning Multiple Temporal Relational Network Embeddings via Graph Convolutional Network**]
+- **TAG: Joint Triple-Hierarchical Attention and GCN for Review-Based Social Recommender System**  
+  Pengpeng Qiao, Zhiwei Zhang, Zhetao Li, Yuanxing Zhang, Kaigui Bian, **Yanzhou Li**, Guoren Wang  
+  IEEE Transactions on Knowledge and Data Engineering  
+- **Learning Multiple Temporal Relational Network Embeddings via Graph Convolutional Network**  
   Kecheng Xiao, Pengyu Zhao, Yuanxing Zhang, **Yanzhou Li**, Kaigui Bian, Wei Yan
-  2019 IEEE Global Communications Conference (GLOBECOM)
+  2019 IEEE Global Communications Conference (GLOBECOM)  
 
 
 # Professional Services
